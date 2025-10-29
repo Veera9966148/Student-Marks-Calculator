@@ -1,0 +1,5 @@
+----- Student Result -----
+Marks: [90.0, 90.0, 84.0, 67.0, 99.0]
+Total: 430.0
+Average: 86.0
+Grade: B
